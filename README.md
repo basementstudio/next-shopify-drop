@@ -1,4 +1,4 @@
-# next-typescript
+# next-shopify-drop
 
 [![from the basement.](https://basement.studio/gh-badge.svg)](https://basement.studio)
 
