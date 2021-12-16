@@ -1910,10 +1910,10 @@ he@1.2.0:
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
 
-hls.js@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/hls.js/-/hls.js-1.1.0.tgz#2cac6bbb39ecdd6d7f66233c56a15826e30afde4"
-  integrity sha512-H0zTitroA/l1JGUHFDOEcqqERGgHJnIwk12OG/9v/hXVGhNY6Yy17a0TecNdKFBiA8s/PaLswx1UwR1QKxouBQ==
+hls.js@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/hls.js/-/hls.js-1.1.2.tgz#71691e11928e54ead9696bc64b88c1b9914c394d"
+  integrity sha512-ujditC4vvBmZd00RRNfNPLgFVlqEeUX4sAFv5lGhBHuql8iAZodOdlZTD3em/1zo7vyjQp12up/lCVqQk8dvxA==
 
 hmac-drbg@^1.0.1:
   version "1.0.1"
